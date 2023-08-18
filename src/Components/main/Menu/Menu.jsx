@@ -31,7 +31,7 @@ const Menu = () => {
                 <ShoppingCart/>
 
                 <Routes>
-                    <Route path='/' element={<Products/>}/>
+                    <Route path='/YourMeal/' element={<Products/>}/>
                     <Route path='/:category' element={<Products/>}/>
                     <Route path="/:category/:id" element={<ProductInfo/>}/>
                 </Routes>

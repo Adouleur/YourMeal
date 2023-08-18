@@ -13,7 +13,7 @@ const Products = () => {
     let products = useSelector(state => state.shop.products);
 
     let {category} = useParams();
-    if (category === undefined || category === "YourMeal") {
+    if (category === undefined) {
         category = "burgers"
     }
     let dispatch = useDispatch();
