@@ -1,0 +1,21 @@
+@import '../../../variables';
+.list{
+    list-style: none;
+  max-height: 100px;
+  overflow-y: scroll;
+  padding-left: 0;
+  background-color: $white;
+  position: absolute;
+  li{
+    cursor: pointer;
+    transition: all 0.3s;
+    &:hover{
+      background-color: $gray;
+    }
+  }
+
+}
+input{
+  width: 100%;
+  position: relative;
+}

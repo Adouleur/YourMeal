@@ -1,0 +1,16 @@
+$lightOrng: #FFAB08;
+$darkOrng: #F86310;
+$gray: #F2F2F3;
+$white: #ffffff;
+$onclickdarkOrng: #e85209;
+$onhoverdarkOrng: #e8641a;
+
+@mixin regular400{
+  font-weight: 400;
+}
+@mixin semiBold600{
+  font-weight: 600;
+}
+@mixin extraBold800{
+  font-weight: 800;
+}
