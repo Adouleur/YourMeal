@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/YourMeal/static/css/main.cbfd30b6.css",
+    "main.js": "/YourMeal/static/js/main.4b58b8f7.js",
+    "static/media/burgerVideo.mp4": "/YourMeal/static/media/burgerVideo.f69a832d8c9971c4a4e8.mp4",
+    "static/media/burgerPhoto.jpg": "/YourMeal/static/media/burgerPhoto.ff79757e94b706386ab6.jpg",
+    "static/media/headerBurger.png": "/YourMeal/static/media/headerBurger.28502710989f97bce62b.png",
+    "static/media/donut.png": "/YourMeal/static/media/donut.8b0ea9daf758851f6ccd.png",
+    "static/media/instagram-icone-orange.png": "/YourMeal/static/media/instagram-icone-orange.7c5b0e61b21e24ede813.png",
+    "static/media/deliveryIcon.svg": "/YourMeal/static/media/deliveryIcon.519b8d1cf6029aab4029d5b2769fce57.svg",
+    "static/media/facebook-icone-orange.png": "/YourMeal/static/media/facebook-icone-orange.db6a44afe1711bd8f8ec.png",
+    "static/media/logo.svg": "/YourMeal/static/media/logo.11efb39e49418f6d50a697bf58074e35.svg",
+    "static/media/logoFooter.svg": "/YourMeal/static/media/logoFooter.ddf71e9aebe22eb9e2b0980e1020007a.svg",
+    "static/media/loaderGif.svg": "/YourMeal/static/media/loaderGif.4449a3d255e56c54a9d397d2fd479014.svg",
+    "static/media/remove-from-cart-icon.svg": "/YourMeal/static/media/remove-from-cart-icon.e372542349fb31403ea86187a17024be.svg",
+    "index.html": "/YourMeal/index.html",
+    "static/media/contact.svg": "/YourMeal/static/media/contact.fcf04e385f7e91005e2600741a5ed38d.svg",
+    "main.cbfd30b6.css.map": "/YourMeal/static/css/main.cbfd30b6.css.map",
+    "main.4b58b8f7.js.map": "/YourMeal/static/js/main.4b58b8f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbfd30b6.css",
+    "static/js/main.4b58b8f7.js"
+  ]
+}
