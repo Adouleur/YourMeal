@@ -62,7 +62,7 @@ const shoppingCartSlice = createSlice({
             )
         },
         deleteProductFromCart(state, action) {
-            console.log(action)
+
             return (
                 state.filter(item => item.product.id !== action.payload)
             )
