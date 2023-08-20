@@ -8,7 +8,7 @@ const shopSlice = createSlice({
     },
     reducers: {
         setProducts(state, action) {
-            return {...state, products: action.payload}
+            return {...state, products: {...action.payload}}
         },
     }
 })

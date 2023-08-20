@@ -5,6 +5,7 @@ import DeliveryPage from "./Delivery/DeliveryPage";
 import About from "../main/About/About";
 
 const Main = () => {
+
     return (
         <section>
             <Routes>

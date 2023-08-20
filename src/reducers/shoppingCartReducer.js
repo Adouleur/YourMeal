@@ -68,14 +68,14 @@ const shoppingCartSlice = createSlice({
             )
         },
         addProductsToCartFromProductInfo(state, action) {
-
-            const checkSimilarProduct = state.some(elem => elem.product.id === action.payload.currentProduct.id);
+            console.log(action.payload)
+            const checkSimilarProduct = state.some(elem => elem.product.id === action.payload.product.id);
 
             if (state.length === 0 || !checkSimilarProduct) {
 
                 return [...state, {
                     product: {
-                        ...action.payload.currentProduct,
+                        ...action.payload.product,
                         count: action.payload.productAmount
                     }
                 }]
@@ -83,7 +83,7 @@ const shoppingCartSlice = createSlice({
 
                 return (
                     state.map(item =>
-                        item.product.id === action.payload.currentProduct.id
+                        item.product.id === action.payload.product.id
                             ? {
                                 ...item, product: {
                                     ...item.product,

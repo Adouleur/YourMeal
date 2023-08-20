@@ -28,7 +28,7 @@ const ShoppingCartItem = ({product}) => {
 
         <div>
             <div className={s.ShoppingCartItem}>
-                <Link to={`/${type}/${id}`}>
+                <Link to={`/:${type}/${id}`}>
                     <div className={s.wrapper}>
 
                         <img className={s.foodPreview} src={image} alt=""/>
