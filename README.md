@@ -1,4 +1,4 @@
-# YourMeal Project Readme
+# [YourMeal](https://adouleur.github.io/YourMeal/) - Food Delivery of future
 
 Welcome to YourMeal :hamburger:, a delightful recipe management application built with React JS, SCSS, Redux Toolkit, and Firebase. This application allows users to discover, save, and share their favorite recipes, making meal planning and cooking an enjoyable experience.
 
