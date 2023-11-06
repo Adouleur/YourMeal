@@ -41,7 +41,7 @@ Welcome to YourMeal :hamburger:, a delightful recipe management application buil
 ## Technologies Used
 
 - **React JS:** 
-- **SCSS:** 
-- **Redux Toolkit:** 
-- **Firebase:** 
+- **SCSS** 
+- **Redux Toolkit** 
+- **Firebase** 
 
