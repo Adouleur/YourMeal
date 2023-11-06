@@ -35,8 +35,7 @@ Welcome to YourMeal :hamburger:, a delightful recipe management application buil
    ```bash
    npm install
    ```
-
-.
+   
 
 ## Technologies Used
 
